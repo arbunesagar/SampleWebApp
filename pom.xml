@@ -25,7 +25,7 @@
     <modules>
         <module>WebContent</module>
         <module>build/classes</module>
-        <module>src</module> 
+        <module>src/example</module> 
     </modules>
 
     <build>
