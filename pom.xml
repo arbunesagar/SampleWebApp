@@ -23,8 +23,9 @@
     </properties>
 
     <modules>
-        <module>core</module>
-        <module>web</module>
+        <module>WebContent</module>
+        <module>build</module>
+        <module>src</module> 
     </modules>
 
     <build>
